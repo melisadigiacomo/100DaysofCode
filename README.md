@@ -1,6 +1,6 @@
 ##  [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click)
 
-I share my 100 Days of Code Challenge. I hardly recommend it! It keep my constancy and show me how much I've learn during this days!
+I share my 100 Days of Code Challenge. I really recommend it! It kept my constancy and showed me how much I've learn during this days!
 
 ### Follow me: [@melisadigiacomo](https://twitter.com/melisadigiacomo)  
 [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/melisadigiacomo)
