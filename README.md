@@ -32,6 +32,7 @@ I share my 100 Days of Code Challenge. I really recommend it! It kept my constan
 | [04](#04) | Plot evolution        | Added a new repo on GitHub with plot evolution   | R                 |   
 | [05](#05) | Vacations info web    | Developed a simple web to share vacations info   | HTML - CSS        |   
 | [06](#06) | HTML test and Netlify | Passed HTML test and opened a Netlify account    | HTML              |   
+| [07](#07) | CSS theory            | Studied color theory, shapes and positions       | CSS               |   
 | [08](#08) | Layouts               | Practised different layouts                      | HTML - CSS        |   
 | [09](#09) | {CSS animation}       | Studied and practised CSS animation              | CSS               |   
 | [10](#10) | Layouts               | Practised layouts for different devices          | HTML - CSS        |    
@@ -39,7 +40,6 @@ I share my 100 Days of Code Challenge. I really recommend it! It kept my constan
 | [12](#12) | Portfolio             | Started craning my web portfolio                 | Pen - Paper       |    
 | [13](#13) | Contact card          | Developed a contact card                         | HTML - CSS        |    
 | [14](#14) | CSS positions         | Studied and practiced CSS positions              | CSS               |   
-| [07](#07) | CSS theory            | Studied color theory, shapes and positions       | CSS               |   
 | [15](#15) | Linktree clone        | Developed my own Linktree page                   | HTML - CSS        |    
 | [16](#16) | CSS flexbox           | Practised CSS Flexbox by playing games           | CSS               |    
 | [17](#17) | Icons links page      | Developed an icons links page                    | HTML - CSS        |    
